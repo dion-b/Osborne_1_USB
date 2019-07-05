@@ -5,7 +5,7 @@ Teensy (Arduino) sketch project to connect an Osborne (Variant) 1 keyboard to a 
 
 Requirements
 -Teensy++ 2.0 or compatible microcontroller board
--Osborne 1 keyboard row pins A0-A7 connected to Teensy pins 38-45 (Note- I follow the order of the pins in the connector, not the odd ordere in Osborne documentation)
+-Osborne 1 keyboard row pins A0-A7 connected to Teensy pins 38-45 (Note- I follow the order of the pins in the connector, not the odd order in Osborne documentation)
 -Osborne 1 keyboard column pins D0-D7 connected to Teensy pins 10-17
 
 osborne1.0.ino is a simple implementation of all 56 keys of the keyboard via USB HID
